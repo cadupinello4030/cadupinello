@@ -5,9 +5,9 @@
 <br>
 
 <div>
-  <a href="https://github.com/ca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloseduardo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardo&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/cadupinello">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cadupinello&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadupinello&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <br>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
