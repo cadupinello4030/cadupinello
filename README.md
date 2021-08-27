@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/cadupinello">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cadupinello&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadupinello&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cadupinello4030&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadupinello4030&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <br>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
@@ -19,7 +19,6 @@
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img align="right" alt="Rafa-yoda" src="https://media3.giphy.com/media/UYmY3vRnWpHHO/giphy.gif?cid=ecf05e47xps76sjyz6r1l91llse3manmxrbzibvk3oqoykck&rid=giphy.gif&ct=g" height="200" width="200">
 
 ##
 
